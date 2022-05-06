@@ -1,0 +1,1 @@
+export { defaultEquals } from './defaultEquals.js'
